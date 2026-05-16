@@ -1,2 +1,7 @@
 # ITE-Things
-Repo for codes n other stuff
+Repo for codes n other stuff:
+
+## Mini Projects
+
+### Computer Vision
+ 
