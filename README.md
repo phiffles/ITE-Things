@@ -8,11 +8,13 @@ Techniques learned:
 - Batch Normalization  
 - Data Augmentation  
 - Ensembling  
-- Transfer Learning (MobileNetV2)  
+- Transfer Learning (MobileNetV2)
+- Log for learnings
 
 ### Natural Language Processing
 Techniques learned:
 - GloVe Embeddings  
 - Bidirectional LSTM (BiLSTM)  
-- Early Stopping  
+- Early Stopping
+- Log for my learnings
  
